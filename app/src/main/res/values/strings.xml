@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L10-HardCell</string>
+    <string name="enter_value">Rule number (0-255)</string>
+    <string name="create_ca">Start on looper</string>
+    <string name="create_ui">Start on UI</string>
+    <string name="create_exec">Start with executor</string>
+    <string name="coroutines">Start with coroutines</string>
+    <string name="ca_content">CA</string>
+
+</resources>
